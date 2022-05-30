@@ -42,6 +42,8 @@ pygments
 pylast
 pymediainfo
 PyMuPDF
+flask
+flask_restful
 pySmartDL
 python-barcode
 python-dotenv
